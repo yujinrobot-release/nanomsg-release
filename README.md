@@ -1,3 +1,26 @@
+## nanomsg (melodic) - 0.4.1-0
+
+The packages in the `nanomsg` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic nanomsg` on `Mon, 08 Oct 2018 11:24:40 -0000`
+
+The `nanomsg` package was released.
+
+Version of package(s) in repository `nanomsg`:
+
+- upstream repository: https://github.com/stonier/nanomsg.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## nanomsg (kinetic) - 0.4.1-0
 
 The packages in the `nanomsg` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic nanomsg` on `Thu, 04 Oct 2018 13:17:46 -0000`
