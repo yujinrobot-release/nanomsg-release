@@ -1,0 +1,12 @@
+Source: ros-melodic-nanomsg
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-nanomsg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The nanomsg package
